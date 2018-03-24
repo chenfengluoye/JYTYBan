@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="画笔颜色">
+        <menu>
+            <item android:title="红色"></item>
+            <item android:title="黄色"></item>
+            <item android:title="蓝色"></item>
+            <item android:title="绿色"></item>
+        </menu>
+    </item>
+    <item android:title="画笔粗细">
+        <menu>
+            <item android:title="超大"/>
+            <item android:title="大"/>
+            <item android:title="中"/>
+            <item android:title="小"/>
+            <item android:title="极小"/>
+        </menu>
+    </item>
+    <item android:title="开始绘图"/>
+    <item android:title="橡皮擦">
+    </item>
+    <item android:title="保存绘图">
+    </item>
+    <item android:title="退出软件">
+    </item>
+</menu>
